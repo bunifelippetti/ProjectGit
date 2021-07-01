@@ -1,0 +1,1 @@
+This is my first contact with git and my first project. I'm following a video tutorial on Youtube.
